@@ -1,4 +1,4 @@
-**Краткое описание:** Учебный проект, командная разработка. Был дан docker образ frontend-части доски объявлений, необходимо было дописать backend на Java, с использованием фреймворка Spring (в т.ч. Spring Security).
+**Краткое описание:** Учебный проект, командная разработка. **Задача:** Дан docker образ frontend-части доски объявлений, необходимо написать backend-часть проекта на Java, с использованием фреймворка Spring (в т.ч. Spring Security).
 
 ##### <img src="http://alrepin.sytes.net/school/student/2/avatar/preview" width="50" height="50"/> Skypro от Skyeng
 ***
